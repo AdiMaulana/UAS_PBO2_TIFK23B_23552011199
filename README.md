@@ -1,4 +1,4 @@
-# UTS Pemrograman Berorientasi Obyek 2
+# Final Proyek Pemrograman Berorientasi Obyek 2
 <ul>
   <li>Mata Kuliah: Pemrograman Berorientasi Obyek 2</li>
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
