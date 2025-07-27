@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/resources/db.properties</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/com/clothing/distro/ClothingDistroApp.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/form/MainFrame.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/form/LoginFrame.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/model/User.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/service/AuthenticationService.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/dao/impl/ClotheDaoImpl.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/service/UserService.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/form/SignUpFrame.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/form/TableColumnAdjuster.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/dao/ClotheDaoInterface.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/service/ClotheServiceInterface.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/resources/ddl.sql</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/model/Clothe.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/dao/DatabaseConnection.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AppClothingDistro/src/model/UserRegistry.java</file>
+        </group>
+    </open-files>
+</project-private>
