@@ -273,8 +273,8 @@ public abstract class Asuransi {
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://github.com/AdiMaulana/UTS_PBO2_TIF23KB_23552011199/blob/main/insurance/src/main/java/com/insurance/MainApp.java">Github</a></li>
-  <li>Youtube: <a href="https://youtu.be/CefLaSujmoU">Youtube</a></li>
+  <li>Github: <a href="https://github.com/AdiMaulana/UAS_PBO2_TIFK23B_23552011199">Github</a></li>
+  <li>G-Drive: <a href="https://drive.google.com/drive/folders/1-cM7sI7tWYHMxAHv5utH4b0DocH3sfBi?usp=drive_link">Link G-Drive </a></li>
 </ul>
 
 
